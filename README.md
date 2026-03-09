@@ -1,1 +1,0 @@
-[![.github/workflows/ci.yml](https://github.com/PaulLasjuniesEpitech/CI-CD/actions/workflows/ci.yml/badge.svg)](https://github.com/PaulLasjuniesEpitech/CI-CD/actions/workflows/ci.yml)
